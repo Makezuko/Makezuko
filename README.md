@@ -19,5 +19,5 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 ## 📊 Estatísticas
 ![Makezuko GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makezuko&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Makezuko&theme=github_dark&layout=compact&border_radius=10)
-| --- | --- |
+
 
