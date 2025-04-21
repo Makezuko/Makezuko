@@ -13,9 +13,11 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 
 🛠️ Trabalhando em: **[Sistema para controle de gastos](https://github.com/Makezuko/projeto_financeiro)**  
 📦 Principais tecnologias: Python, CustomTkinter, MySQL  
-🎯 Próximos passos: Integração com API de autenticação + dashboard personalizado 
-
-
+🎯 Próximos passos: 
+ - Integração com API de autenticação
+ - Dashboard
+ - Gerador de relatórios
+   
 ---
 ## 🤖 Linguagens e Tecnologias
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
