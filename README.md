@@ -16,6 +16,7 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 🛠️ Trabalhando em: 
  - User Interface
  - User Experience
+   
 🎯 Próximos passos: 
  - Integração com API de autenticação
  - Dashboard
