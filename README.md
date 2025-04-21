@@ -11,19 +11,17 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 ## 🧠 Skills e Estatísticas
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px;">
 
-  <!-- Linguagens -->
-  <div align="left">
-    <img alt="HTML" title="HTML" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS" title="CSS" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="Git" title="Git" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="Python" title="Python" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <div style="display: flex; gap: 10px;">
+    <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   </div>
 
-  <!-- Estatísticas -->
-  <div align="right">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makezuko&theme=github_dark&layout=compact&border_radius=10" />
   </div>
 
