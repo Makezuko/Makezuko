@@ -49,6 +49,8 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
  - Dashboard
  - Gerador de relatórios
 
+---
+
 **[Sistema de registro e prevenção de riscos](https://github.com/Otavio66/ProjetoIntegrador)**
 
 📦 Principais tecnologias: 
