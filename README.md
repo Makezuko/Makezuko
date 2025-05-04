@@ -3,7 +3,7 @@
 
 Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 
->**“Um problema bem definido é um problema meio resolvido.” - Charles Kettering / John Dewey / 🪄**
+>**“Um problema bem definido é um problema meio resolvido.” - Charles Kettering🪄**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-amma-69b5b5177/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasamma@gmail.com)
