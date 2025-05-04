@@ -23,7 +23,7 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
   </div>
 
   <div>
-    <img [Makezuko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makezuko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)>
+    <img src=([Makezuko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makezuko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))>
   </div>
 
   </div>
