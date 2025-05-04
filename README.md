@@ -48,7 +48,7 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
    
 ---
 
-**[Sistema simples de Kanban com login e autenticação](https://github.com/Makezuko/attDispositivosMoveis)**
+**[Sistema simples de Kanban](https://github.com/Makezuko/attDispositivosMoveis)**
 
 📦 Principais tecnologias: 
  - Kotlin 
