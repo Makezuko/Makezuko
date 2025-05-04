@@ -26,28 +26,50 @@
 </div>
 
 ---
-## 🚀 Projetos
+## 🚧 Projetos em construção
 
-### [Sistema de registro e prevenção de riscos](https://github.com/Otavio66/ProjetoIntegrador) | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-📱 Aplicativo Android para gerenciamento de riscos ocupacionais
+**[Sistema de registro e prevenção de riscos](https://github.com/Otavio66/ProjetoIntegrador)**
 
-**Tecnologias**: Kotlin, Firebase, Android Studio  
-**Features**:
-- Cadastro de riscos ambientais
-- Notificações preventivas
-- Relatórios customizados
+📦 Principais tecnologias: 
+ - Kotlin 
+ - FireBase
+ - AndroidStudio
+
+🛠️ Trabalhando em: 
+ - User Interface
+ - User Experience
+ - Banco de dados
+ - Back-End
+   
+---
+
+**[Sistema simples de Kanban](https://github.com/Makezuko/attDispositivosMoveis)**
+
+📦 Principais tecnologias: 
+ - Kotlin 
+ - FireBase
+ - AndroidStudio
+
+🛠️ Trabalhando em: 
+ - Todos os usuários receberem informações de uma Task
+ - Alterar as informações dentro de uma Task
 
 ---
 
-### [Sistema Kanban Mobile](https://github.com/Makezuko/attDispositivosMoveis) | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-📊 Sistema de gerenciamento de tarefas estilo Kanban
+**[Sistema para controle de gastos](https://github.com/Makezuko/projeto_financeiro)**  
 
-**Tecnologias**: Kotlin, Firebase  
-**Próximos passos**:
-- [ ] Sincronização em tempo real
-- [ ] Compartilhamento de tasks entre usuários
+📦 Principais tecnologias: 
+ - Python 
+ - CustomTkinter
+ - MySQL
+
+🛠️ Trabalhando em: 
+ - User Interface
+ - User Experience
+   
+🎯 Próximos passos: 
+ - Integração com API de autenticação
+ - Dashboard
+ - Gerador de relatórios
 
 ---
-
-### [Controle Financeiro Pessoal](https://github.com/Makezuko/projeto_financeiro) | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-💵 Aplicativo desktop para gestão de finanças
