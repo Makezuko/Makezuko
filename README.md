@@ -33,24 +33,6 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 ---
 ## 🚧 Em construção
 
-**[Sistema para controle de gastos](https://github.com/Makezuko/projeto_financeiro)**  
-
-📦 Principais tecnologias: 
- - Python 
- - CustomTkinter
- - MySQL
-
-🛠️ Trabalhando em: 
- - User Interface
- - User Experience
-   
-🎯 Próximos passos: 
- - Integração com API de autenticação
- - Dashboard
- - Gerador de relatórios
-
----
-
 **[Sistema de registro e prevenção de riscos](https://github.com/Otavio66/ProjetoIntegrador)**
 
 📦 Principais tecnologias: 
@@ -79,5 +61,22 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 
 ---
 
+**[Sistema para controle de gastos](https://github.com/Makezuko/projeto_financeiro)**  
+
+📦 Principais tecnologias: 
+ - Python 
+ - CustomTkinter
+ - MySQL
+
+🛠️ Trabalhando em: 
+ - User Interface
+ - User Experience
+   
+🎯 Próximos passos: 
+ - Integração com API de autenticação
+ - Dashboard
+ - Gerador de relatórios
+
+---
 
 
