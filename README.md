@@ -66,5 +66,18 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
    
 ---
 
+**[Sistema simples de Kanban com login e autenticação](https://github.com/Makezuko/attDispositivosMoveis)**
+
+📦 Principais tecnologias: 
+ - Kotlin 
+ - FireBase
+ - AndroidStudio
+
+🛠️ Trabalhando em: 
+ - Todos os usuários receberem informações de uma Task
+ - Alterar as informações dentro de uma Task
+
+---
+
 
 
