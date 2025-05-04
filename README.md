@@ -23,7 +23,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makezuko&theme=vue-dark&hide_border=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Makezuko&show_icons=true&theme=vue-dark&hide_border=true" />
 </div>
 
 ---
