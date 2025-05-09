@@ -37,9 +37,9 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
  - AndroidStudio
 
 🛠️ Trabalhando em: 
- - Mecanismo de verificação de estado de autenticação para detectar se o usuário está logado
- - Adicionar ID do usuário como informação em um registro
- - Anexar um arquivo de imagem usando a câmera
+ - Função para autenticar usuário e permitir realizar as funções
+ - Adicionar ID do usuário como informação em um registro de riscos 
+ - Função para atualiar a tela principal arrastando para baixo
    
 ---
 
