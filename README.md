@@ -51,8 +51,7 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
  - AndroidStudio
 
 🛠️ Trabalhando em: 
- - Todos os usuários receberem informações de uma Task
- - Alterar as informações dentro de uma Task
+ - Arrastar task para outro card de status diferente
 
 ---
 
