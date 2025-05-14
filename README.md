@@ -37,9 +37,8 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
  - AndroidStudio
 
 🛠️ Trabalhando em: 
- - Função para autenticar usuário e permitir realizar as funções
- - Adicionar ID do usuário como informação em um registro de riscos 
- - Função para atualiar a tela principal arrastando para baixo
+
+ - Função para atualizar a tela principal arrastando para baixo
    
 ---
 
