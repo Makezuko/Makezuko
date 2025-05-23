@@ -38,7 +38,7 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 
 🛠️ Trabalhando em: 
 
- - Função para atualizar a tela principal arrastando para baixo
+ - Sistema para enviar notificações ao administrador quando um novo risco for registrado
    
 ---
 
