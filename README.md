@@ -29,19 +29,6 @@ Sou um estudante do curso de Sistemas de Informação na PUC-Campinas
 ---
 ## 🚧 Projetos em construção
 
-**[Sistema de registro e prevenção de riscos](https://github.com/Otavio66/ProjetoIntegrador)**
-
-📦 Principais tecnologias: 
- - Kotlin 
- - FireBase
- - AndroidStudio
-
-🛠️ Trabalhando em: 
-
- - Sistema para enviar notificações ao administrador quando um novo risco for registrado
-   
----
-
 **[Sistema simples de Kanban](https://github.com/Makezuko/attDispositivosMoveis)**
 
 📦 Principais tecnologias: 
